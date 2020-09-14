@@ -1,0 +1,9 @@
+const String directory = "images/";
+const String imgFeelingsMe = "${directory}ic_human.svg";
+const String imgFeelingsHappy = "${directory}ic_happy.svg";
+const String imgFeelingsSad = "${directory}ic_sad.svg";
+const String imgFeelingsHungry = "${directory}ic_fast_food.svg";
+const String imgFeelingsWater = "${directory}ic_water.svg";
+const String imgFeelingsYes = "${directory}ic_tick.svg";
+const String imgFeelingsNo = "${directory}ic_cross.svg";
+const String imgBackground = "${directory}background.jpg";
